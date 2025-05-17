@@ -34,6 +34,8 @@ Trabalho principalmente com **Python (FastAPI, Flask, Django)** e **JavaScript/T
 
 ---
 
+## 🤝 Vamos nos conectar!
+
 📬 thaismrgs@gmail.com  
 🌐 [linkedin.com/in/thaismirandagomes](https://www.linkedin.com/in/thaismirandagomes)
 
