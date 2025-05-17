@@ -29,8 +29,8 @@ Trabalho principalmente com **Python (FastAPI, Flask, Django)** e **JavaScript/T
 
 ## 📈 Estatísticas GitHub
 
-![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaismirandag&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismirandag&layout=compact)
+![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaismirandag&show_icons=true&theme=nightowl&rank_icon=github)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismirandag&layout=compact&theme=nightowl)
 
 ---
 
