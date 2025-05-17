@@ -18,8 +18,11 @@ Trabalho principalmente com **Python (FastAPI, Flask, Django)** e **JavaScript/T
 ## 🧠 Tecnologias & Ferramentas
 
 **Linguagens:** Python, Java, PHP, JavaScript, TypeScript
+
 **Frameworks:** FastAPI, Flask, Django, Spring Boot, Angular, Laravel 
-**Banco de Dados:** PostgreSQL, MySQL, SQL Server, CosmosDB, Redis, Elasticsearch  
+
+**Banco de Dados:** PostgreSQL, MySQL, SQL Server, CosmosDB, Redis, Elasticsearch
+
 **DevOps & Nuvem:** Docker, Azure, AWS, Oracle Cloud, Git Actions, Azure DevOps
 
 ---
