@@ -17,7 +17,7 @@ Trabalho principalmente com **Python (FastAPI, Flask, Django)** e **JavaScript/T
 
 ## 🧠 Tecnologias & Ferramentas
 
-**Linguagens:** Python, Java, PHP, JavaScript, TypeScript
+**Linguagens:** Python, Java, Kotlin, JavaScript, TypeScript, PHP
 
 **Frameworks:** FastAPI, Flask, Django, Spring Boot, Angular, Laravel 
 
