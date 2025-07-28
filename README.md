@@ -1,40 +1,40 @@
-# 👋 Olá! Eu sou a Thais 
+# 👋 Hi there! I'm Thais
 
-🎯 Desenvolvedora Full-Stack com foco em Back-End  
+🎯 Full-Stack Developer with a Back-End focus
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/thaismirandagomes)  
 [![E-mail](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:thaismrgs@gmail.com)  
 
 ---
 
-## 💻 Sobre mim
+## 💻 About Me
 
-Sou engenheira formada pela UFJF e faço pós em Arquitetura de Software pela FIAP. Tenho experiência sólida no desenvolvimento de APIs e integração com bancos de dados relacionais e não relacionais.
+I'm an engineer graduated from Federal University of Juiz de Fora and currently pursuing a post-graduate degree in Software Architecture at FIAP - Paulista School of Informatics and Management. I have solid experience in API development and integration with relational and non-relational databases.
 
-Trabalho principalmente com **Python (FastAPI, Flask, Django)** e **JavaScript/TypeScript** no front-end quando necessário. Me interesso por boas práticas de código, automação, escalabilidade e engenharia de software moderna.
+I mainly work with Python (FastAPI, Flask, Django) and JavaScript/TypeScript on the frontend when needed. I'm passionate about clean code practices, automation, scalability, and modern software engineering.
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🧠 Technologies & Tools
 
-**Linguagens:** Python, Java, Kotlin, JavaScript, TypeScript, PHP
+**Languages:** Python, Java, Kotlin, JavaScript, TypeScript, PHP
 
 **Frameworks:** FastAPI, Flask, Django, Spring Boot, Angular, Laravel 
 
-**Banco de Dados:** PostgreSQL, MySQL, SQL Server, CosmosDB, Redis, Elasticsearch
+**Databases:** PostgreSQL, MySQL, SQL Server, CosmosDB, Redis, Elasticsearch
 
-**DevOps & Nuvem:** Docker, Azure, AWS, Oracle Cloud, Git Actions, Azure DevOps
+**DevOps & Cloud:** Docker, Azure, AWS, Oracle Cloud, Git Actions, Azure DevOps
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📈 GitHub Stats
 
 ![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaismirandag&show_icons=true&theme=nightowl&rank_icon=github)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismirandag&layout=compact&theme=nightowl)
 
 ---
 
-## 🤝 Vamos nos conectar!
+## 🤝 Let's Connect!
 
 📬 thaismrgs@gmail.com  
 🌐 [linkedin.com/in/thaismirandagomes](https://www.linkedin.com/in/thaismirandagomes)
