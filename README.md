@@ -27,13 +27,6 @@ I mainly work with Python (FastAPI, Flask, Django) and JavaScript/TypeScript on 
 
 ---
 
-## 📈 GitHub Stats
-
-![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaismirandag&show_icons=true&theme=nightowl&rank_icon=github)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismirandag&layout=compact&theme=nightowl)
-
----
-
 ## 🤝 Let's Connect!
 
 📬 thaismrgs@gmail.com  
